@@ -1,0 +1,45 @@
+{
+  "ticker": "HAZEL",
+  "ticker_lower": "hazel",
+  "name": "Hazel",
+  "character": {
+    "name": "Hazel",
+    "one_liner": "Night owl, bookworm, keeper of everyone's secrets.",
+    "visual": "Round little owl with fluffy brown-and-cream feathers speckled with white dots, a white heart-shaped face, huge amber-orange eyes, a tiny golden beak, streaked cream belly, and small orange feet on a soft dusty-rose background"
+  },
+  "tagline": "Up all night. Reading. Remembering everything.",
+  "blurb": "Hazel stays up past everyone's bedtime with a good book and a better memory. Tell her a secret \u2014 it's safe forever. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/hazel.webp",
+  "palette": {
+    "primary": "#ff9a76",
+    "secondary": "#ffd6a5",
+    "accent": "#ffe8d6",
+    "bg": "#fff8f1"
+  },
+  "design": {
+    "seed": "1d5b557e043d908e",
+    "palette_family": "cream_peach",
+    "palette_source": "generated",
+    "layout": "split",
+    "layout_source": "generated",
+    "layout_label": "Character left / copy right (stacks on mobile)",
+    "font_pair": "bubblegum_lato",
+    "font_source": "generated",
+    "font_display": "Bubblegum Sans",
+    "font_body": "Lato",
+    "font_google": "family=Bubblegum+Sans&family=Lato:wght@400;700"
+  },
+  "request_id": "hazel-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Hazel lives at the top of the tallest bookshelf, where the reading lamp stays on long after everyone else has gone to sleep. Her big amber eyes are perfect for midnight chapters and spotting the last cookie in the jar.\n\nShe is a speckled little ball of feathers who listens more than she hoots. Friends come to her with their worries, their crushes, and their very embarrassing stories, and Hazel just blinks slowly and nods. Not one secret has ever left that bookshelf.\n\nBy morning she is tucked into her feathers, a dog-eared page beside her, dreaming about the next good book. Soft, wise, and wide awake when you need her most \u2014 that's Hazel. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
